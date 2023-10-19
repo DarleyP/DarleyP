@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [Currently enrolled in Web Development BootCamp](Currently enrolled in Web Development BootCamp)
 
-- ⚡ Fun fact **i Think of things, like you**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

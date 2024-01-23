@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darleyp" alt="darleyp" /></a> </p>
 
-*SKILLS*
+!SKILLS!
 
 - JavaScript (ES6+): Proficient in modern JavaScript, with a keen focus on ES6 and newer versions.
 Skilled in developing dynamic and interactive web applications.
